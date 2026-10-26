@@ -16,7 +16,7 @@ This internship helped me improve my Java programming skills through practical p
 
 ## Completed Tasks
 
-### Task 1 – Number Guessing Game
+### Task 2 – Number Guessing Game
 A console-based game where the user guesses a randomly generated number.
 
 **Features:**
@@ -70,7 +70,7 @@ A multiple-choice quiz application with score calculation.
 ```text
 java-internship
 │
-├── Task-01
+├── Task-02
 │   └── NumberGuessingGame.java
 │
 ├── Task-03
